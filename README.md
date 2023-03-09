@@ -8,8 +8,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Task:  
 
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.
--Create the metrics according to the metric list.
--Create a dashboard according to the mock-up provided by stakeholders.
--Create relevant insights that are not provided in the metric list/mock-up dashboard.
+- Create the metrics according to the metric list.
+- Create a dashboard according to the mock-up provided by stakeholders.
+- Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 Kindly note that the mock-up is created by a business user who has minimal idea about dashboarding. Hence you need to represent the insights in a much simpler way. The dashboard must be self explanatory and easy to understand.
